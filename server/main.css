@@ -1,0 +1,12 @@
+.form-inline {
+    background-image: linear-gradient(red, yellow, green);
+}
+
+.form-inline {
+    background: color(display-p3 1 0.08 0); /* super red! */
+}
+
+#input-form {
+    background: color(display-p3 1 0.08 0); /* super red! */
+}
+

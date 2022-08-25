@@ -1,0 +1,6 @@
+github.com/ddliu/go-httpclient v0.6.9 h1:/3hsBVpcgCJwqm1dkVlnAJ9NWuYInbRc+i9FyUXX/LE=
+github.com/ddliu/go-httpclient v0.6.9/go.mod h1:zM9P0OxV4OGGz1pt/ibuj0ooX2SWH9a6MvXZLbT0JMc=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Go Chat!</title>
+ <link
+ rel="stylesheet"
+ href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+ />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+ 
+ <div class="container">
+  
+   <div class="jumbotron">
+     
+     <h1><span style="color:rgb(72, 255, 0)">hello everyone welcome to our chat</span></h1>
+   </div>
+   
+   <form id="input-form" class="form-inline">
+     <div class="form-group">
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <input
+        id="input-username"
+        type="text"
+        class="form-control"
+        placeholder="Enter username"
+       />
+     </div>
+   </form>
+   <br>
+   
+   <form  id="input-form" class="form-inline">
+     <div  class="form-group">
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <input
+         id="input-text"
+         type="text"
+         class="form-control"
+         placeholder="Enter chat text here"
+       />
+     </div>
+    </form>
+   <br>
+   <button class="btn btn-primary" type="submit">Send</button>
+   <div id="chat-text"></div>
+   </div>
+</body>
+<script type="text/javascript" src="app.js"></script>
+</html>
